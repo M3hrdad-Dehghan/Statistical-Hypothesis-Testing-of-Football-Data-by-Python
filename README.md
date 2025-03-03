@@ -25,15 +25,15 @@ In this project,  I have two datasets, for women's football matches and men's, a
 ## Clone to Repository
 
 ```HTTP
-git clone .........................
+git clone https://github.com/M3hrdad-Dehghan/Statistical-Hypothesis-Testing-of-Football-Data-by-Python.git
 ```
 
 ```SSH
-.........................
+git@github.com:M3hrdad-Dehghan/Statistical-Hypothesis-Testing-of-Football-Data-by-Python.git
 ```
 
 ```CLI
-.................................
+gh repo clone M3hrdad-Dehghan/Statistical-Hypothesis-Testing-of-Football-Data-by-Python
 ```
 
 ## Contact
